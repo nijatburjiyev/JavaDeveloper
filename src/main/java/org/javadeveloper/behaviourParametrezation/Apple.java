@@ -1,4 +1,4 @@
-package org.javadeveloper.BehaviourParamatrization;
+package org.javadeveloper.behaviourParametrezation;
 
 public class Apple {
     private String color;

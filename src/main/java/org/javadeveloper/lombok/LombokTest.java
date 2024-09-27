@@ -1,4 +1,4 @@
-package org.javadeveloper.Lombok;
+package org.javadeveloper.lombok;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
